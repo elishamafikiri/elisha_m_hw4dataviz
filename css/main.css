@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
+  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 2;
+  color: #333333;
+  background: whitesmoke; 
+}
+
+  link {
+  display: none;
+}
+
+.container {
+  width: 900px;
+  padding-left: 500px;
+}
+
+.charts {
+
+  background-color: #aaa;
+  padding: 40px; 
+  border-radius: 15px;
+  color: white;
+}
+.logo {
+
+  border-radius: 10px;
+  padding-top: 10px;
+  background: radial-gradient( #a181a3, #b89eba);
+  text-align: center;
+  color: white;
+}
+
+
+
